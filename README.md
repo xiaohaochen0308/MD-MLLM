@@ -4,9 +4,7 @@
 
 This repository contains the official PyTorch implementation of the paper:
 
-### **“Multimodal Classification Modal Decoupling: Using MLLM Knowledge to Bridge Visual Representations”**
-
-**Author**: Xiaohao Chen
+### **“Image-Text Classification with Modal Disentanglement: Enhancing and Refining Visual Representations via MLLM Knowledge”**
 
 
 
