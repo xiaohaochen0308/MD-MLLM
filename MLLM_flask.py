@@ -9,8 +9,8 @@ import io
 app = Flask(__name__)
 
 # Load model and processor (do this once to avoid reloading on each request)
-model_dir = "/root/.cache/modelscope/hub/Qwen/Qwen2-VL-7B-Instruct"
-# model_dir = "/root/.cache/modelscope/hub/Qwen/Qwen2-VL-72B-Instruct"
+model_dir = "/root/.cache/modelscope/hub/Qwen/Qwen2.5-VL-7B-Instruct"
+
 
 
 # Load model and processor on app start
