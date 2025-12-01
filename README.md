@@ -14,7 +14,7 @@ We provide a pretrained checkpoint of **MD-MLLM** on the **Food-101** dataset fo
 
 - **Food-101 Dataset**  
   - Accuracy: **95.02%**  
-  - 👉 _Download checkpoint_: `[link to Food-101 checkpoint]`
+  - 👉 _Download checkpoint_: `https://drive.google.com/file/d/1GrR2ZeEHV_Z4PTYa99M4_BhYe8YoHJis/view?usp=sharing`
 
 You can use this checkpoint for direct evaluation or for fine-tuning on related multimodal classification tasks.
 
