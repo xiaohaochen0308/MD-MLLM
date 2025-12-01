@@ -62,11 +62,10 @@ Our split files and MLLM descriptions can be directly used to reproduce the expe
 
 ## 🧩 Code Availability
 
-The full training and evaluation code for MD-MLLM will be released soon.  
-The current repository focuses on:
+We will gradually release the full training and evaluation code for MD-MLLM in future updates.  
+The current repository mainly includes:
 
-- model definition and configuration;
-- loading the Food-101 checkpoint;
-- basic evaluation scripts based on the released splits and MLLM descriptions.
+- example scripts for loading the pretrained checkpoint on the Food-101 dataset;
+- basic evaluation and inference scripts based on the released dataset splits and MLLM-generated descriptions.
 
-> 🔔 Stay tuned for upcoming updates, including complete training pipelines, ablation scripts, and more detailed documentation.
+> 🔔 We will keep updating this repository and progressively release the complete training pipeline, ablation scripts, and more detailed documentation. Stay tuned.
